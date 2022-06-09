@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/expertertool
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://expertertool.github.io
+  * I am expertertool (https://keybase.io/expertertool) on keybase.
+  * I have a public key ASCbj1rC4elH8aMKAhFOMfBRVazUNEOFz3hEvx4FulEEiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209b8f5ac2e1e947f1a30a02114e31f05155acd4344385cf7844bf1e05ba5104880a",
+      "host": "keybase.io",
+      "kid": "01209b8f5ac2e1e947f1a30a02114e31f05155acd4344385cf7844bf1e05ba5104880a",
+      "uid": "90c6771316da2bf31504e49715e48619",
+      "username": "expertertool"
+    },
+    "merkle_root": {
+      "ctime": 1654787137,
+      "hash": "a34615e0ec7ddc44434f7fc40d7ecc834f40aa165dec9afa22c1420ea770a85288d0f3ec17bf717fcf7fb1028da0577a6570cf9113ee9d2908b3409e960567b9",
+      "hash_meta": "c7b280e45bb80fe41fbab558f64020f4844542eefe24abc14c16a9131a0904fd",
+      "seqno": 22643704
+    },
+    "service": {
+      "entropy": "ckUP9esNtbX2ebzZg3IwPL1L",
+      "hostname": "expertertool.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1654787168,
+  "expire_in": 504576000,
+  "prev": "e315bd502bc5e259ca9bf7fcdbefa7eaaddf4f09f9ef776b96658b1215dcf1b7",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm49awuHpR/GjCgIRTjHwUVWs1DRDhc94RL8eBbpRBIgKp3BheWxvYWTESpcCEcQg4xW9UCvF4lnKm/f82++n6q3fTwn573drlmWLEhXc8bfEIGqkWaoTAnXx82QaUi8MfJvgG+CWqG186J4OmTcMfpYdAgHCo3NpZ8RA+mw3AwnhYtU94GmITuPtvCphu8LjrYlVPrZSYKOyjbZn7xjCc65FIdD046VYbtl3aCEW3ySl7tcA+5gxVmR4BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJmdOoij8NDtCIQmRghuGmh2rx6GgRg7zfQ5WfIavVFCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/expertertool
+
+==================================================================
